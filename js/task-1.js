@@ -1,4 +1,4 @@
-import users from "./js/users.js";
+import users from "./users.js";
 
 // Задание 1. Получить массив имен всех пользователей (поле name).
 
